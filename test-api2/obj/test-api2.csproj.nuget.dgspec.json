@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jaime\\OneDrive\\Escritorio\\asd\\APICarros\\test-api2\\test-api2.csproj": {}
+    "C:\\Users\\pulid\\OneDrive\\Escritorio\\API_Walas\\APICarros\\test-api2\\test-api2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jaime\\OneDrive\\Escritorio\\asd\\APICarros\\test-api2\\test-api2.csproj": {
+    "C:\\Users\\pulid\\OneDrive\\Escritorio\\API_Walas\\APICarros\\test-api2\\test-api2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jaime\\OneDrive\\Escritorio\\asd\\APICarros\\test-api2\\test-api2.csproj",
+        "projectUniqueName": "C:\\Users\\pulid\\OneDrive\\Escritorio\\API_Walas\\APICarros\\test-api2\\test-api2.csproj",
         "projectName": "test-api2",
-        "projectPath": "C:\\Users\\jaime\\OneDrive\\Escritorio\\asd\\APICarros\\test-api2\\test-api2.csproj",
-        "packagesPath": "C:\\Users\\jaime\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jaime\\OneDrive\\Escritorio\\asd\\APICarros\\test-api2\\obj\\",
+        "projectPath": "C:\\Users\\pulid\\OneDrive\\Escritorio\\API_Walas\\APICarros\\test-api2\\test-api2.csproj",
+        "packagesPath": "C:\\Users\\pulid\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pulid\\OneDrive\\Escritorio\\API_Walas\\APICarros\\test-api2\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\jaime\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pulid\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +26,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -77,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
